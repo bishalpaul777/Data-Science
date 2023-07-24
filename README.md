@@ -1,2 +1,2 @@
 # Data-Science
-Project on Data Science using PowerBi and Python
+Sales Insights Data Analysis using Power Bi
